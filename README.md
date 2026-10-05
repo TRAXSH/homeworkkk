@@ -1,10 +1,6 @@
 # Artemiy
 
----
 
-## Стек
-
-* 
 
 ## Выполненные пункты
 
@@ -18,7 +14,7 @@
 
 * [Документация GitHub](https://docs.github.com)
 
-## Пример кода на Python
+## Снипет
 
 ```python
 def check_status():
@@ -29,24 +25,4 @@ print(f"Статус домашки: {check_status()}")
 ```
 
 
-
-\##  Ссылки
-
-\- \[GitHub Docs](https://docs.github.com)
-
-
-
-\## Сниппет
-
-```python
-
-def check\_status():
-
-&#x20;   return "all good"
-
-
-
-print(f">> system: {check\_status()}")
-
-```
 
