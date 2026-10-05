@@ -25,4 +25,4 @@ print(f"Статус домашки: {check_status()}")
 ```
 
 
-
+<img width="500" height="493" alt="загрузка" src="https://github.com/user-attachments/assets/8a9c701b-f88a-4927-874c-518124fd3cf2" />
